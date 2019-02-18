@@ -24,7 +24,7 @@
       <p>Step 4. Type it again.</p>
       <p>Step 5. Click "Start using MEWconnect"</p>
       <p>
-        You’re done! You’ll be taken to a screen that shows your new wallets address backed by a unique color-code. On this screen you’ll find all your ETH and tokens. There is also a handy ‘Share’ button next to your address, in case you want to send it to someone.
+        You’re done! You’ll be taken to a screen that shows your new wallet's address backed by a unique color-code. On this screen you’ll find all your ETH and tokens. There is also a handy ‘Share’ button next to your address, in case you want to send it to someone.
       </p>
   	</div>
   	<div>
@@ -85,7 +85,7 @@
       </p>
       <p>Step 4. Confirm your transaction on the MEWconnect app.</p>
       <p>
-        You’re done! Your transaction is broadcasting to the network, and you’ll be able to check it’s status shortly with a provided transaction ID.
+        You’re done! Your transaction is broadcasting to the network, and you’ll be able to check its status shortly with a provided transaction ID.
       </p>
   	</div>
 	</div>
